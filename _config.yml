@@ -56,10 +56,15 @@ pinterest_url:
 slack_url:
 dribbble_url:
 
+# Plugin for hosting community-supported Jekyll themes in Gitpages
+# cf. https://github.com/benbalter/jekyll-remote-theme/ 
+plugins:
+  - jekyll-remote-theme
+
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue // currently commented out to try to run on github pages using remote-theme
-remote_theme:  chrisbobbe/jekyll-theme-prologue 
+remote_theme:  chrisbobbe/jekyll-theme-prologue
 collections: [sections]

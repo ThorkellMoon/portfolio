@@ -7,8 +7,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+# This gem enables support for community-supported Jekyll themes in Github (I hope). Based on https://github.com/benbalter/jekyll-remote-theme/
+gem "jekyll-remote-theme"
 # gem "jekyll", "~> 4.0.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+# Below is the gem for the 'Prologue' theme of Jekyll by Chris Bobbe (https://github.com/chrisbobbe/jekyll-theme-prologue)
 gem 'jekyll-theme-prologue', '~> 0.3.3'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
