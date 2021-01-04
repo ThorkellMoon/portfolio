@@ -1,5 +1,5 @@
 ---
-title: CV - J.S. Love
+title: CV
 layout: "page"
 icon: fa-book
 order: 4
