@@ -17,6 +17,7 @@ order: 4
 - Old Norse language and literature
 - Old English language and literature
 - Medieval Nordic law
+- Paleography and manuscripts
 - Viking mythology
 - German (elementary and intermediate)
 
@@ -25,7 +26,7 @@ order: 4
 # Digital resources
 
 1.	‘A Lexicon of Medieval Nordic Law’, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. [https://www.dhi.ac.uk/nordic/](https://www.dhi.ac.uk/nordic/) (website and SQL database) [beta]
-2.	The Stories for All Time. [fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
+2.	The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
 
 # Publications
 
