@@ -12,6 +12,7 @@ order: 4
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
 ## Taught courses (University-level)
+- Data as a design daterial
 - R for social sciences (cf. <a href="https://datacarpentry.org/lessons/#social-science-curriculum">Data Carpentry</a>)
 - Data methods and management
 - Old Norse language and literature
