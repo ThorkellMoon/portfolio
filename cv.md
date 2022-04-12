@@ -4,15 +4,21 @@ layout: "page"
 icon: fa-book
 order: 4
 ---
-
 ## Education
 - PHD - Anglo-Saxon, Norse and Celtic (Corpus Christi College, Cambridge)
 - MSLIS - Library & Information Science (Univ. of Illinois)
 - MA - Germanic Languages and Liteartures (Univ. of Illinois)
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
+## Academic Posts
+- 2018-present: Scientific Fellow/Data Steward - Industrial Design Engineering (TU Delft)
+- 2017-2018: Data librarian (Stockholm University)
+- 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
+- 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
+
 ## Taught courses (University-level)
-- Data as a design daterial
+- Data as a design material
+- Responsible design for software-based products
 - R for social sciences (cf. <a href="https://datacarpentry.org/lessons/#social-science-curriculum">Data Carpentry</a>)
 - Data methods and management
 - Old Norse language and literature
@@ -21,6 +27,10 @@ order: 4
 - Paleography and manuscripts
 - Viking mythology
 - German (elementary and intermediate)
+
+## Supervision
+- S. Tang - 'Digital Museum Interfaces for Creators' (MSc graduation, ongoing)
+- Y. Chu - '<a href="http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38">Describing Images to Visually Impaired Users: a Requirement Elicitation Approach</a>' (MSc graduation, 2021)
 
 ## Research outputs
 
@@ -43,5 +53,6 @@ order: 4
 10.	 ‘The Organization of Poetic Quotations in Hervarar Saga ok Heiðreks’. 2012. In *The Legendary Sagas: Origins and Development*. Ed. Ármann Jakobsson, Annette Lassen and Agneta Ney. Reykjavík: University of Iceland Press. 153-69.
 
 # In preparation
-1.	*Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
-2.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
+1. 'Legendary Sagas and Legendary Rimes' (Under review with *New Norse Studies*)
+2. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
+3.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
