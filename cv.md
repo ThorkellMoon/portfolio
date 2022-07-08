@@ -29,6 +29,7 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
+- S. Li - 'Haptic Interventions for Improving Reading Experiences and Long-Term Memory' (MSc graduation, ongoing)
 - S. Tang - 'Digital Museum Interfaces for Creators' (MSc graduation, ongoing)
 - Y. Chu - '<a href="http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38">Describing Images to Visually Impaired Users: a Requirement Elicitation Approach</a>' (MSc graduation, 2021)
 
@@ -42,7 +43,7 @@ order: 4
 # Publications
 
 1.	*A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
-2.	‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2020) [8000 words]
+2.	‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2023) [8000 words]
 3.	‘Árni’s Archives: The Arnamagnæan Diplomatic Collection in Copenhagen’. 2020. In *Medieval Documents as Artefacts*. Ed. Eef Dijkhof et al. Hilversum: Verloren. [online description](https://verloren.nl/boeken/2086/213/5763/middeleeuwen/medieval-documents-as-artefacts)
 4.	‘Gnýs æfintýr’, with Beeke Stegmann and Tom Birkett, ed. and trans. 2016. In *Bibliotheca Arnamagnæana XLVIII. Opuscula XIV*. Ed. Britta Olrik Frederiksen. Hafniæ: Museum Tusculanum. 25-87. [PDF on academia.edu](https://www.academia.edu/24814980/Gn%C3%BDs_%C3%A6vint%C3%BDr)
 5.	‘Erik’s Law of Zeeland’, trans. with Helle Vogt. 2016. In *The Danish Medieval Laws*. Ed. Helle Vogt and Ditlev Tamm. Oxford: Routledge.
