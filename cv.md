@@ -57,3 +57,7 @@ order: 4
 1. 'Legendary Sagas and Legendary Rimes' (Under review with *New Norse Studies*)
 2. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
 3.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
+
+# Other Materials
+1. Love, J. & N. Rikalo. '<a href="https://doi.org/10.5281/zenodo.5775893">Summary of Insights from WebDocs interviews</a>' (user study and design specifications for Digital Humanities scholars underlying the <a href="https://samepagedemo.com/">SamePage tool</a>)
+2. Martinez-Lavanchy, P.M., van Schöll, P. & Zormpa, E. '<a href="https://doi.org/10.5281/zenodo.6325918">TU Delft Research Data Management 101 course</a>' (minor contributions to teaching material)
