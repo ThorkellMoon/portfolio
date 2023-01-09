@@ -7,7 +7,7 @@ order: 4
 ## Education
 - PHD - Anglo-Saxon, Norse and Celtic (Corpus Christi College, Cambridge)
 - MSLIS - Library & Information Science (Univ. of Illinois)
-- MA - Germanic Languages and Liteartures (Univ. of Illinois)
+- MA - Germanic Languages and Literatures (Univ. of Illinois)
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
 ## Academic Posts
@@ -17,6 +17,8 @@ order: 4
 - 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
 
 ## Taught courses (University-level)
+- Technology Critique (Master <a href="https://studiolab.ide.tudelft.nl/studiolab/deepdive/deep-dive-in-technology-critique/">Deep Dive</a>)
+- Context and Conceptualisation (track-editor: Digital Heritage)
 - Data as a design material
 - Responsible design for software-based products
 - R for social sciences (cf. <a href="https://datacarpentry.org/lessons/#social-science-curriculum">Data Carpentry</a>)
@@ -29,8 +31,10 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
-- S. Li - 'Haptic Interventions for Improving Reading Experiences and Long-Term Memory' (MSc graduation, ongoing)
-- S. Tang - 'Digital Museum Interfaces for Creators' (MSc graduation, ongoing)
+- G. Germano - 'Artefacts and Gestures in Shared Eating Practices' (MSc graduation, ongoing)
+- A. Hemerick - 'Redesigning the TU Graduation Repository' (MSc graduation, ongoing)
+- S. Li - '<a href="http://resolver.tudelft.nl/uuid:add3c870-d079-4259-96a9-bde7576a85a3">Exploring a New Haptic Reading Experience</a>' (MSc graduation, 2022)
+- S. Tang - '<a href="http://resolver.tudelft.nl/uuid:584a79e6-d5f4-43ef-8cea-4ba8daa5584e">Getting Inspired by Museum Collections</a>' (MSc graduation, 2022)
 - Y. Chu - '<a href="http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38">Describing Images to Visually Impaired Users: a Requirement Elicitation Approach</a>' (MSc graduation, 2021)
 
 ## Research outputs
