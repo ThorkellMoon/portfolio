@@ -33,7 +33,7 @@ order: 4
 ## Supervision
 - M. van Geene - 'Storytelling in VR Pop-up Books' (MSc graduation, ongoing)
 - G. Germano - 'Artefacts and Gestures in Shared Eating Practices' (MSc graduation, ongoing)
-- A. Hemerik - '<a href="Redesigning the TU Delft Student Theses Repository">Redesigning the TU Delft Student Theses Repository</a>' (MSc graduation, 2023)
+- A. Hemerik - '<a href="http://resolver.tudelft.nl/uuid:28c6b2a2-022f-4bcc-b1bd-2827619e21c0">Redesigning the TU Delft Student Theses Repository</a>' (MSc graduation, 2023)
 - S. Li - '<a href="http://resolver.tudelft.nl/uuid:add3c870-d079-4259-96a9-bde7576a85a3">Exploring a New Haptic Reading Experience</a>' (MSc graduation, 2022)
 - S. Tang - '<a href="http://resolver.tudelft.nl/uuid:584a79e6-d5f4-43ef-8cea-4ba8daa5584e">Getting Inspired by Museum Collections</a>' (MSc graduation, 2022)
 - Y. Chu - '<a href="http://resolver.tudelft.nl/uuid:990d2cd5-f3b6-4f08-8926-86faa65abb38">Describing Images to Visually Impaired Users: a Requirement Elicitation Approach</a>' (MSc graduation, 2021)
