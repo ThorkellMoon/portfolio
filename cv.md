@@ -18,7 +18,7 @@ order: 4
 
 ## Taught courses (University-level)
 - Technology Critique (Master <a href="https://studiolab.ide.tudelft.nl/studiolab/deepdive/deep-dive-in-technology-critique/">Deep Dive</a>)
-- Context and Conceptualisation (track-editor: Digital Heritage)
+- Context and Conceptualisation (<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=66289">ID4216</a>) (track-editor: Digital Heritage)
 - Data as a design material
 - Responsible design for software-based products
 - R for social sciences (cf. <a href="https://datacarpentry.org/lessons/#social-science-curriculum">Data Carpentry</a>)
