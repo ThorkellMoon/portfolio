@@ -31,8 +31,8 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
-- M. van Geene - 'Storytelling in VR Pop-up Books' (MSc graduation, ongoing)
 - G. Germano - 'Artefacts and Gestures in Shared Eating Practices' (MSc graduation, ongoing)
+- M. van Geene - '<a href="http://resolver.tudelft.nl/uuid:6fd4d635-9812-4bdc-bccb-2a36b5c8df83">Tip & Top in Virtual Reality: The integration of virtual materiality and interactive storytelling in a historical VR pop-up book experience</a>' (MSc graduation, 2023)
 - A. Hemerik - '<a href="http://resolver.tudelft.nl/uuid:28c6b2a2-022f-4bcc-b1bd-2827619e21c0">Redesigning the TU Delft Student Theses Repository</a>' (MSc graduation, 2023)
 - S. Li - '<a href="http://resolver.tudelft.nl/uuid:add3c870-d079-4259-96a9-bde7576a85a3">Exploring a New Haptic Reading Experience</a>' (MSc graduation, 2022)
 - S. Tang - '<a href="http://resolver.tudelft.nl/uuid:584a79e6-d5f4-43ef-8cea-4ba8daa5584e">Getting Inspired by Museum Collections</a>' (MSc graduation, 2022)
