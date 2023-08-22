@@ -59,9 +59,10 @@ order: 4
 10.	 ‘The Organization of Poetic Quotations in Hervarar Saga ok Heiðreks’. 2012. In *The Legendary Sagas: Origins and Development*. Ed. Ármann Jakobsson, Annette Lassen and Agneta Ney. Reykjavík: University of Iceland Press. 153-69.
 
 # In preparation
-1. 'Legendary Sagas and Legendary Rimes' (Under review with *New Norse Studies*)
-2. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
-3.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
+1. 'Cultural Soundscapes' (accepted; forthcoming in Sep 2023)
+2. 'Legendary Sagas and Legendary Rimes' (Under review with *New Norse Studies*)
+3. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
+4.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
 
 # Other Materials
 1. Love, J. & N. Rikalo. '<a href="https://doi.org/10.5281/zenodo.5775893">Summary of Insights from WebDocs interviews</a>' (user study and design specifications for Digital Humanities scholars underlying the <a href="https://samepagedemo.com/">SamePage tool</a>)
