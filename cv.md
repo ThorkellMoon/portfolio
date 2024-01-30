@@ -61,7 +61,7 @@ Athens, Greece, September 26, 2023*. Ed. Christos Fidas et al. 2024. [https://ce
 11.	 ‘The Organization of Poetic Quotations in Hervarar Saga ok Heiðreks’. 2012. In *The Legendary Sagas: Origins and Development*. Ed. Ármann Jakobsson, Annette Lassen and Agneta Ney. Reykjavík: University of Iceland Press. 153-69.
 
 # In preparation
-1. 'Cultural Soundscapes' (accepted; forthcoming in Sep 2023)
+1. 'Artificial Curators' (in preparation)
 2. 'Legendary Sagas and Legendary Rimes' (Under review with *New Norse Studies*)
 3. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
 4.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
