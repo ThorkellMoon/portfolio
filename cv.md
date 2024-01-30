@@ -47,16 +47,18 @@ order: 4
 
 # Publications
 
-1.	*A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
-2.	‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2023) [8000 words]
-3.	‘Árni’s Archives: The Arnamagnæan Diplomatic Collection in Copenhagen’. 2020. In *Medieval Documents as Artefacts*. Ed. Eef Dijkhof et al. Hilversum: Verloren. [online description](https://verloren.nl/boeken/2086/213/5763/middeleeuwen/medieval-documents-as-artefacts)
-4.	‘Gnýs æfintýr’, with Beeke Stegmann and Tom Birkett, ed. and trans. 2016. In *Bibliotheca Arnamagnæana XLVIII. Opuscula XIV*. Ed. Britta Olrik Frederiksen. Hafniæ: Museum Tusculanum. 25-87. [PDF on academia.edu](https://www.academia.edu/24814980/Gn%C3%BDs_%C3%A6vint%C3%BDr)
-5.	‘Erik’s Law of Zeeland’, trans. with Helle Vogt. 2016. In *The Danish Medieval Laws*. Ed. Helle Vogt and Ditlev Tamm. Oxford: Routledge.
-6.	Review of Már Jónsson. 2012. Arnas Magnæus Philologus. Odense: University Press of Southern Denmark. *Saga Book* XXXIX (2015): 127-29.
-7.	‘The Medieval Nordic Legal Dictionary’. 2015. In *The Sixteenth International Saga Conference: Sagas and Space*. Ed. Jürg Glauser et al. Zürich: Universität Zürich. 188. [abstract]
-8.	‘A Handbook for Princes (AM 243 b α fol.)’, ‘Norwegian Crusaders (NRA AM fasc. 3 nr. 1)’ and ‘Labours of the Month (AM 249 a fol.)’. 2015. In *66 Manuscripts from the Arnamagnæan Collection*. Ed. Matthew James Driscoll and Svanhildur Óskarsdóttir. Copenhagen: Museum Tusculanum. 100-01, 132 and 144-47. [also published in Icelandic (2013) and Danish (2015)]
-9.	*The Reception of Hervarar saga ok Heiðreks from the Middle Ages to the Seventeenth Century*. 2013. Münchner Nordistische Studien, Bd. 14. München: Utz Verlag. [333 pp.]
-10.	 ‘The Organization of Poetic Quotations in Hervarar Saga ok Heiðreks’. 2012. In *The Legendary Sagas: Origins and Development*. Ed. Ármann Jakobsson, Annette Lassen and Agneta Ney. Reykjavík: University of Iceland Press. 153-69.
+1. 'Archaeological Trails and Contemporary Art: Soundscapes for visually impaired visitors', with Angeliki Antoniou, Ioanna Lykourentzou, Heng Gu and Maria Stathi. In *Proceedings of the First International Workshop on Accessibility and Multimodal Interaction Design Approaches in Museums for People with Impairments co-located with MobileHCI 2023 Conference
+Athens, Greece, September 26, 2023*. Ed. Christos Fidas et al. 2024. [https://ceur-ws.org/Vol-3622/paper2.pdf](https://ceur-ws.org/Vol-3622/paper2.pdf)
+2. ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2024) [8000 words]
+3. *A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
+4.	‘Árni’s Archives: The Arnamagnæan Diplomatic Collection in Copenhagen’. 2020. In *Medieval Documents as Artefacts*. Ed. Eef Dijkhof et al. Hilversum: Verloren. [online description](https://verloren.nl/boeken/2086/213/5763/middeleeuwen/medieval-documents-as-artefacts)
+5.	‘Gnýs æfintýr’, with Beeke Stegmann and Tom Birkett, ed. and trans. 2016. In *Bibliotheca Arnamagnæana XLVIII. Opuscula XIV*. Ed. Britta Olrik Frederiksen. Hafniæ: Museum Tusculanum. 25-87. [PDF on academia.edu](https://www.academia.edu/24814980/Gn%C3%BDs_%C3%A6vint%C3%BDr)
+6.	‘Erik’s Law of Zeeland’, trans. with Helle Vogt. 2016. In *The Danish Medieval Laws*. Ed. Helle Vogt and Ditlev Tamm. Oxford: Routledge.
+7.	Review of Már Jónsson. 2012. Arnas Magnæus Philologus. Odense: University Press of Southern Denmark. *Saga Book* XXXIX (2015): 127-29.
+8.	‘The Medieval Nordic Legal Dictionary’. 2015. In *The Sixteenth International Saga Conference: Sagas and Space*. Ed. Jürg Glauser et al. Zürich: Universität Zürich. 188. [abstract]
+9.	‘A Handbook for Princes (AM 243 b α fol.)’, ‘Norwegian Crusaders (NRA AM fasc. 3 nr. 1)’ and ‘Labours of the Month (AM 249 a fol.)’. 2015. In *66 Manuscripts from the Arnamagnæan Collection*. Ed. Matthew James Driscoll and Svanhildur Óskarsdóttir. Copenhagen: Museum Tusculanum. 100-01, 132 and 144-47. [also published in Icelandic (2013) and Danish (2015)]
+10.	*The Reception of Hervarar saga ok Heiðreks from the Middle Ages to the Seventeenth Century*. 2013. Münchner Nordistische Studien, Bd. 14. München: Utz Verlag. [333 pp.]
+11.	 ‘The Organization of Poetic Quotations in Hervarar Saga ok Heiðreks’. 2012. In *The Legendary Sagas: Origins and Development*. Ed. Ármann Jakobsson, Annette Lassen and Agneta Ney. Reykjavík: University of Iceland Press. 153-69.
 
 # In preparation
 1. 'Cultural Soundscapes' (accepted; forthcoming in Sep 2023)
