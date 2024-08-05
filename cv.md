@@ -32,8 +32,8 @@ order: 4
 
 ## Supervision
 - P. ten Hagen - 'Involving Volunteers in Different Stages in Citizen Science Projects by Museums' (MSc graduation, ongoing)
-- M. Cai - 'Enhancing Active Reading: A Human-Machine Co-Creation Journey for Personalized Reading Narratives' (MSc graduation, ongoing)
-- X. Yu - 'E-reading & Dyslexia' (MSc graduation, ongoing)
+- M. Cai - '<a href="http://resolver.tudelft.nl/uuid:76935dd6-c224-42d1-a188-da5ccad8c459">Enhancing Active Reading: A Human-Machine Co-Creation Journey for Visualized Narratives Reading</a>' (MSc graduation, ongoing)
+- X. Yu - '<a href="http://resolver.tudelft.nl/uuid:876d4f33-4554-404b-acfe-58762809d46e">Universal Reading: Digital Reading Experience Enhancement for People with Dyslexia</a>' (MSc graduation, ongoing)
 - Y. Lei - 'Enhancing Multicultural Accessibility: AI-Driven Interactions in Online Museum Collections' (MSc graduation, ongoing)
 - L. Cazemier - 'Designing for the Students' Perspective in Academic Heritage Collections' (MSc graduation, ongoing)
 - E. Peeters - 'Creating an Experience to Connect Citizens of Rotterdam to the Ideas of Desiderius Erasmus' (MSc graduation, ongoing)
