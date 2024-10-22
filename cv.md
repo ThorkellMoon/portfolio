@@ -5,13 +5,14 @@ icon: fa-book
 order: 4
 ---
 ## Education
-- PHD - Anglo-Saxon, Norse and Celtic (Corpus Christi College, Cambridge)
+- PhD - Anglo-Saxon, Norse and Celtic (Corpus Christi College, Cambridge)
 - MSLIS - Library & Information Science (Univ. of Illinois)
 - MA - Germanic Languages and Literatures (Univ. of Illinois)
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
 ## Academic Posts
-- 2018-present: Scientific Fellow/Data Steward - Industrial Design Engineering (TU Delft)
+- 2018-present: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
+- 2024-2025: Visiting Researcher (National Library of the Netherlands)
 - 2017-2018: Data librarian (Stockholm University)
 - 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
 - 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
@@ -32,12 +33,13 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
+- Na Ra Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
 - P. ten Hagen - '<a href="https://resolver.tudelft.nl/uuid:ac7bded8-a948-4496-a0b5-de9f9ef9f06f">From Curiosity to Research: Enhancing Citizen Science in Museums through Virtual Assistance</a>' (MSc graduation, 2024)
 - M. Cai - '<a href="http://resolver.tudelft.nl/uuid:76935dd6-c224-42d1-a188-da5ccad8c459">Enhancing Active Reading: A Human-Machine Co-Creation Journey for Visualized Narratives Reading</a>' (MSc graduation, 2024)
 - X. Yu - '<a href="http://resolver.tudelft.nl/uuid:876d4f33-4554-404b-acfe-58762809d46e">Universal Reading: Digital Reading Experience Enhancement for People with Dyslexia</a>' (MSc graduation, 2024)
 - Y. Lei - '<a href="https://resolver.tudelft.nl/uuid:642b4176-cc79-4af2-97c5-8906f4e8b3ee">Supporting Casual Users to Explore Digital Collections</a>' (MSc graduation, 2024)
-- L. Cazemier - 'Designing for the Students' Perspective in Academic Heritage Collections' (MSc graduation, ongoing)
-- E. Peeters - 'Creating an Experience to Connect Citizens of Rotterdam to the Ideas of Desiderius Erasmus' (MSc graduation, ongoing)
+- L. Cazemier - '<a href="https://resolver.tudelft.nl/uuid:2450fee7-dfe5-446e-8dc3-81b59fcf1998">StoryTiles: Engaging students with Academic Heritage through tangible interactions</a>' (MSc graduation, 2024)
+- E. Peeters - '<a href="https://resolver.tudelft.nl/uuid:ab5ce7e3-cd6e-4d3e-b385-ac666690dd09">In Praise of the Future: Using Speculative Design to Create an Experience that Lets People Reflect Critically</a>' (MSc graduation, 2024)
 - Y. Wu - '<a href="https://resolver.tudelft.nl/uuid:27627952-33bc-4542-9006-342b1c561093">An AI Text Summarization Tool to Improve Visually Impaired Individual’s Skimming Reading</a>' (MSc graduation, 2024)
 - E. Tonelli - '<a href="https://resolver.tudelft.nl/uuid:d23ec387-09ce-48d9-a013-d5758c564118">Volunteering as a Support Tool for Navigating Life Transitions</a>' (MSc graduation, 2024)
 - J. Zhao - '<a href="https://resolver.tudelft.nl/uuid:e1719d37-3e5e-40cb-a227-01e34e3e9d86">Empowering Reading: A Tool to Boost Novice Designers' Motivation for Design Books</a>' (MSc graduation, 2024)
@@ -57,8 +59,9 @@ order: 4
 -	The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
 
 # Publications
-- ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2024) [8000 words]
-- 'Legendary Sagas and Legendary Rimes'. In *Philology, Poetics and Early Modern Icelandic: New Norse Studies*. Ed. Shaun Hughes. Islandica. Ithaca: Cornell UP. (forthcoming winter 2024) [19000 words]
+- 'Artificial Curators: Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', with H. Gu and J. Vandommele. (under review; forthcoming 2025) [8000 words]
+- ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2025) [8000 words]
+- 'Legendary Sagas and Legendary Rimes'. In *Philology, Poetics and Early Modern Icelandic: New Norse Studies*. Ed. Shaun Hughes. Islandica. Ithaca: Cornell UP. (forthcoming spring 2025) [19000 words]
 - 'On the Role of Materials Experience for Novel Interactions with Digital Representations of Historical Pop-up and Movable Books', with Willemijn Elkhuizen, Stefano Parisi and Elvin Karana. In *CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems, May 2024*. [https://doi.org/10.1145/3613904.3642142](https://doi.org/10.1145/3613904.3642142) 
 - 'Archaeological Trails and Contemporary Art: Soundscapes for visually impaired visitors', with Angeliki Antoniou, Ioanna Lykourentzou, Heng Gu and Maria Stathi. In *Proceedings of the First International Workshop on Accessibility and Multimodal Interaction Design Approaches in Museums for People with Impairments co-located with MobileHCI 2023 Conference Athens, Greece, September 26, 2023*. Ed. Christos Fidas et al. 2024. [https://ceur-ws.org/Vol-3622/paper2.pdf](https://ceur-ws.org/Vol-3622/paper2.pdf)
 - *A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
