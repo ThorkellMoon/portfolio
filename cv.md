@@ -11,7 +11,8 @@ order: 4
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
 ## Academic Posts
-- 2018-present: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
+- 2022-present: Assistant Professor of Digital Design History and Heritage (TU Delft)
+- 2018-2022: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
 - 2024-2025: Visiting Researcher (National Library of the Netherlands)
 - 2017-2018: Data librarian (Stockholm University)
 - 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
@@ -33,7 +34,8 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
-- Na Ra Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
+- N. Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
+- U. Thomas - 'The Diffusion of Textile Knowledge: should past practices be revived in a modern context?' (MSc graduation, ongoing)
 - P. ten Hagen - '<a href="https://resolver.tudelft.nl/uuid:ac7bded8-a948-4496-a0b5-de9f9ef9f06f">From Curiosity to Research: Enhancing Citizen Science in Museums through Virtual Assistance</a>' (MSc graduation, 2024)
 - M. Cai - '<a href="http://resolver.tudelft.nl/uuid:76935dd6-c224-42d1-a188-da5ccad8c459">Enhancing Active Reading: A Human-Machine Co-Creation Journey for Visualized Narratives Reading</a>' (MSc graduation, 2024)
 - X. Yu - '<a href="http://resolver.tudelft.nl/uuid:876d4f33-4554-404b-acfe-58762809d46e">Universal Reading: Digital Reading Experience Enhancement for People with Dyslexia</a>' (MSc graduation, 2024)
