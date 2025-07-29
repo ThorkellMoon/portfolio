@@ -11,14 +11,16 @@ order: 4
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
 ## Academic Posts
-- 2022-present: Assistant Professor of Digital Design History and Heritage (TU Delft)
+- 2022-present: Assistant Professor of Digital Design History and Heritage (TU Delft); Director of the <a href="https://delftdesignlabs.org/future-libraries-lab/">Future Libraries Lab</a>
+- 2024-2026: Visiting Researcher (National Library of the Netherlands)
 - 2018-2022: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
-- 2024-2025: Visiting Researcher (National Library of the Netherlands)
 - 2017-2018: Data librarian (Stockholm University)
 - 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
 - 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
 
 ## Taught courses (University-level)
+- Heritage & Architecture - Sustainable Library Studio (guest lecturer)
+- Words as Images (w/ S. Chandrasegaran; master-level textual data viz workshop; <a href="https://github.com/senthilchandrasegaran/words-as-images">Github repo</a>)
 - Understanding Design (Intro to Design bachelor course. <a href="https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=67985&_NotifyTextSearch_">course description</a>)
 - Technology Critique (Master <a href="https://studiolab.ide.tudelft.nl/studiolab/deepdive/deep-dive-in-technology-critique/">Deep Dive</a>)
 - Context and Conceptualisation (<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=66289">ID4216</a>) (track-editor: Digital Heritage)
@@ -34,8 +36,11 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
+- L. Jiang - 'Interactive Design Focusing On Colours In The Context Of Van Gogh Museum' (MSc graduation, ongoing)
+- C. Liu - 'Evoking Imagination in Museum Catharijneconvent Storytelling' (MSc graduation, ongoing)
+- C. Broerse - 'Preserving Afghanistan's rubab heritage through interactive technologies' (MSc graduation, ongoing)
 - N. Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
-- U. Thomas - 'The Diffusion of Textile Knowledge: should past practices be revived in a modern context?' (MSc graduation, ongoing)
+- U. Thomas - '<a href="https://resolver.tudelft.nl/uuid:215dc689-b210-437e-be53-cdd93f94dc74">Under Construction: Repair and Rework Kit. Exploring Needlework, DIY and Sustainable Fashion</a>' (MSc graduation, 2025)
 - P. ten Hagen - '<a href="https://resolver.tudelft.nl/uuid:ac7bded8-a948-4496-a0b5-de9f9ef9f06f">From Curiosity to Research: Enhancing Citizen Science in Museums through Virtual Assistance</a>' (MSc graduation, 2024)
 - M. Cai - '<a href="http://resolver.tudelft.nl/uuid:76935dd6-c224-42d1-a188-da5ccad8c459">Enhancing Active Reading: A Human-Machine Co-Creation Journey for Visualized Narratives Reading</a>' (MSc graduation, 2024)
 - X. Yu - '<a href="http://resolver.tudelft.nl/uuid:876d4f33-4554-404b-acfe-58762809d46e">Universal Reading: Digital Reading Experience Enhancement for People with Dyslexia</a>' (MSc graduation, 2024)
@@ -56,7 +61,6 @@ order: 4
 ## Research outputs
 
 # Digital resources
-
 -	‘A Lexicon of Medieval Nordic Law’, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. [https://www.dhi.ac.uk/nordic/](https://www.dhi.ac.uk/nordic/) (website and SQL database) [beta]
 -	The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
 
@@ -81,6 +85,12 @@ order: 4
 2. *Járnsíða*, trans. Medieval Nordic Laws (MNL) Project.
 3.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
 
+# Conference presentations (selected)
+- 'Distant Viewing and Generative Exploration of Multimedia Heraldry in Early Modern Europe', ADHO (Lisbon, July 2025) [<a href="https://doi.org/10.5281/zenodo.16149793">abstract and slides</a>]
+- 'Artificial Curators - Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', DH & AI Conference (U. Reading, June 2024)
+- 'The Visboeck Curatorbot: Discussing Heritage Collections with Machines', IFLA-WLIC (Rotterdam, August 2023) [<a href="https://repository.ifla.org/handle/20.500.14598/3058">poster</a>]
+
 # Other Materials
-1. Love, J. & N. Rikalo. '<a href="https://doi.org/10.5281/zenodo.5775893">Summary of Insights from WebDocs interviews</a>' (user study and design specifications for Digital Humanities scholars underlying the <a href="https://samepagedemo.com/">SamePage tool</a>)
-2. Martinez-Lavanchy, P.M., van Schöll, P. & Zormpa, E. '<a href="https://doi.org/10.5281/zenodo.6325918">TU Delft Research Data Management 101 course</a>' (minor contributions to teaching material)
+- Love, J.S. 2024. '<a href="https://research.reading.ac.uk/digitalhumanities/generative-text-for-by-with-digital-humanists/">Generative Text for/by/with Digital Humanists</a>' (blog post within the University of Reading Digital Humanities 'DH & AI' series)
+- Love, J. & N. Rikalo. '<a href="https://doi.org/10.5281/zenodo.5775893">Summary of Insights from WebDocs interviews</a>' (user study and design specifications for Digital Humanities scholars underlying the <a href="https://samepagedemo.com/">SamePage tool</a>)
+- Martinez-Lavanchy, P.M., van Schöll, P. & Zormpa, E. '<a href="https://doi.org/10.5281/zenodo.6325918">TU Delft Research Data Management 101 course</a>' (minor contributions to teaching material)
