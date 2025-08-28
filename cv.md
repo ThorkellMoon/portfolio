@@ -40,7 +40,7 @@ order: 4
 - M. Riemann - 'Arcane Design: Getting Down to Earth through/with/for Magic' (MSc graduation, ongoing)
 - L. Jiang - '<a href="https://resolver.tudelft.nl/uuid:4b5ef5bd-56df-4bfe-9982-f59971900780">Exploring Colour Compositions Like Van Gogh:
 Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc graduation, 2025)
-- C. Liu - '<a href="https://resolver.tudelft.nl/uuid:70355b17-8b49-4725-a98a-e0ef46c0bfee">The Power of Imagination: A Concept Design for Museum Catharijne Convent</a>' (MSc graduation, ongoing)
+- C. Liu - '<a href="https://resolver.tudelft.nl/uuid:70355b17-8b49-4725-a98a-e0ef46c0bfee">The Power of Imagination: A Concept Design for Museum Catharijne Convent</a>' (MSc graduation, 2025)
 - C. Broerse - '<a href="https://resolver.tudelft.nl/uuid:f8762542-a3e0-49f6-85c3-6ec743eaed1d">Preserving the Afghan rubab through interactive technologies</a>' (MSc graduation, 2025)
 - N. Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
 - U. Thomas - '<a href="https://resolver.tudelft.nl/uuid:215dc689-b210-437e-be53-cdd93f94dc74">Under Construction: Repair and Rework Kit. Exploring Needlework, DIY and Sustainable Fashion</a>' (MSc graduation, 2025)
