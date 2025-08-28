@@ -4,21 +4,22 @@ layout: "page"
 icon: fa-book
 order: 4
 ---
+## Academic Posts
+- 2022-present: Assistant Professor of Digital Design History and Heritage (TU Delft); Director of the <a href="https://delftdesignlabs.org/future-libraries-lab/">Future Libraries Lab</a>
+- 2024-2026: Visiting Researcher & Strategist (National Library of the Netherlands)
+- 2018-2022: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
+- 2017-2018: Data librarian (Stockholm University)
+- 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
+- 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
+
 ## Education
 - PhD - Anglo-Saxon, Norse and Celtic (Corpus Christi College, Cambridge)
 - MSLIS - Library & Information Science (Univ. of Illinois)
 - MA - Germanic Languages and Literatures (Univ. of Illinois)
 - BA - Humanities and German (hons.) (Univ. of Texas at San Antonio)
 
-## Academic Posts
-- 2022-present: Assistant Professor of Digital Design History and Heritage (TU Delft); Director of the <a href="https://delftdesignlabs.org/future-libraries-lab/">Future Libraries Lab</a>
-- 2024-2026: Visiting Researcher (National Library of the Netherlands)
-- 2018-2022: Research Fellow/Data Steward - Industrial Design Engineering (TU Delft)
-- 2017-2018: Data librarian (Stockholm University)
-- 2014-2017: Researcher (Dept. of Swedish and Multilingualism, Stockholm University)
-- 2012-2014: Postdoc (The Arnamagnaean Institute, University of Copenhagen)
-
 ## Taught courses (University-level)
+- Delft Lectures on Design (master core curriculum)
 - Heritage & Architecture - Sustainable Library Studio (guest lecturer)
 - Words as Images (w/ S. Chandrasegaran; master-level textual data viz workshop; <a href="https://github.com/senthilchandrasegaran/words-as-images">Github repo</a>)
 - Understanding Design (Intro to Design bachelor course. <a href="https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=67985&_NotifyTextSearch_">course description</a>)
@@ -36,9 +37,11 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
-- L. Jiang - 'Interactive Design Focusing On Colours In The Context Of Van Gogh Museum' (MSc graduation, ongoing)
-- C. Liu - 'Evoking Imagination in Museum Catharijneconvent Storytelling' (MSc graduation, ongoing)
-- C. Broerse - 'Preserving Afghanistan's rubab heritage through interactive technologies' (MSc graduation, ongoing)
+- M. Riemann - 'Arcane Design: Getting Down to Earth through/with/for Magic' (MSc graduation, ongoing)
+- L. Jiang - '<a href="https://resolver.tudelft.nl/uuid:4b5ef5bd-56df-4bfe-9982-f59971900780">Exploring Colour Compositions Like Van Gogh:
+Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc graduation, 2025)
+- C. Liu - '<a href="https://resolver.tudelft.nl/uuid:70355b17-8b49-4725-a98a-e0ef46c0bfee">The Power of Imagination: A Concept Design for Museum Catharijne Convent</a>' (MSc graduation, ongoing)
+- C. Broerse - '<a href="https://resolver.tudelft.nl/uuid:f8762542-a3e0-49f6-85c3-6ec743eaed1d">Preserving the Afghan rubab through interactive technologies</a>' (MSc graduation, 2025)
 - N. Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
 - U. Thomas - '<a href="https://resolver.tudelft.nl/uuid:215dc689-b210-437e-be53-cdd93f94dc74">Under Construction: Repair and Rework Kit. Exploring Needlework, DIY and Sustainable Fashion</a>' (MSc graduation, 2025)
 - P. ten Hagen - '<a href="https://resolver.tudelft.nl/uuid:ac7bded8-a948-4496-a0b5-de9f9ef9f06f">From Curiosity to Research: Enhancing Citizen Science in Museums through Virtual Assistance</a>' (MSc graduation, 2024)
