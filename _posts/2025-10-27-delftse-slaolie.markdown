@@ -9,7 +9,7 @@ I drifted into the world of design history. I'm still learning about it and prob
 
 From what I can tell, if one discusses Art Nouveau in the Netherlands, it is customary at some point to bring up salad oil posters. By all accounts _slaoliestijl_ (salad oil style) is an acceptable synonym here for Art Nouveau, and it's all due to Jan Toorop's marketing posters for the NOF (Nederlandse Oliefabriek = Dutch Oil Factory). I'd seen Toorop's poster and a few others like it (see below) in my wanderings through books and museums, most recently in the Dedel Design Museum in Den Haag. Only recently did I discovered Toorop as the creator. In fact, my attention was brought to this through a casual read of an article in the Public Domain Review (a source of many fascinating tales from history). I generally do not like to focus investigations on individual people - part of an intentional move away from supporting the notion of the 'Starchitecht' or genius designer - but I think Toorop's tale deserves to be a bit better known alongside his famous graphic art.
 
-<a><img src="{{ '/assets/images/SlaolieToorop_640x480.jpg' | relative_url }}" alt="Jan Toorop's Delftse Slaolie Poster" /></a>
+<div><a><img src="{{ '/assets/images/SlaolieToorop_640x480.jpg' | relative_url }}" alt="Jan Toorop's Delftse Slaolie Poster" /></a></div>
 Jan Toorop's 1894 Delftse Slaolie Poster (Source: Rijksmuseum)
 
 To start, I only discovered later that his daughter, Charley, seems to be the better known and more highly regarded artist in the family. Jan was born in Java, which for me invokes a myriad of discussions about opportunities for people in that part of the world under Dutch control during the mid to late nineteenth century. Was it common (for the wealthy) to travel or study in Europe? What was the art scene, if it could be called a scene, like in Java during the late 19th century? How did life differ in Java vis-a-vis Amsterdam? I don't really have answers to these questions, but they are in the back of my mind when looking at Toorop's work and his stylistic influences. So far the majority of information I was able to find on Toorop and his posters comes from historians of art who naturally tend to focus on the art itself. Multiple sources, or perhaps several tracing back to one, suggest that the figures in his posters resemble Wayang shadow puppets. I can see this, but I could equally see these as somehow related to the pale colours and elongated figures in other European art of the time. I immediately think of Kirchner's German Expressionist works or perhaps Matisse's 'La Danse', though both of these appearled a little later than Toorop's salad oil design. Part of the appeal in Toorop's work - this poster and others - lies in its strangeness, that the figures were eerie and weird when he made them and they remain so today. Perhaps the inspiration for them matter less than their effects.
@@ -21,8 +21,10 @@ Toorop's connection to Delft, one of the original prompts for looking into his p
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/Nieuwenhuis1893_Slaolie.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
       </div>
+    </div>
+    <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/CachetSlaolie.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
+          <a href="#" class="image fit"><img src="{{ 'assets/images/CachetSlaolie.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
       </div>
     </div>
 </div>
@@ -30,7 +32,8 @@ Later _slaolie_ posters created by Theo Nieuwenhuis and Carel Lion Cachet.
 
 Perhaps some final comments, for now, on the afterlife or alternative lives of the poster. We now view this primarily as a work of art, and in its own time the poster was part of an exhibition in Paris (_Exposition d'Affiches artistique_). Are there still venues for admiring the art & design of marketing items? I find it difficult to believe, but this perhaps due to a profound personal distaste for pushing wasteful consumerism. It's somehow easier, probably due to the alienation of time, to appreciate the aesthetics of Toorop's poster in the same way one does Mucha's opera posters or, more prosaically, the ones he made for LU biscuits. 
 
-<a><img src="{{ '/assets/images/Mucha1896_LUbiscuits.jpg' | relative_url }}" alt="Jan Toorop's Delftse Slaolie Poster" /></a>
+<div><a><img src="{{ '/assets/images/Mucha1896_LUbiscuits.jpg' | relative_url }}" alt="Jan Toorop's Delftse Slaolie Poster" /></a></div>
+Mucha's 1896 poster advertising LU biscuits
 
 I wonder how the NOF commission contributed to Toorop's livelihood. This wasn't his only commercial venture - he also produced materials for a life insurance company in Arnhem as well as cover designs for a couple of Louis Couperus' novels (have a look at <a href="https://anno1900.nl/2018/11/03/de-couperus-banden-van-jan-toorop/">this blog</a> for a couple of nice examples). I haven't read anything in Toorop's own words, and I wonder what he thought about using his art for commercial purposes and how this work affected his career during his lifetime. I also wonder what he would have thought about it earning him some degree of fame more than a century later.
 
