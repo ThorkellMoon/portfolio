@@ -37,12 +37,12 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
-- M. Riemann - 'Arcane Design: Getting Down to Earth through/with/for Magic' (MSc graduation, ongoing)
+- M. Riemann - '<a href="https://resolver.tudelft.nl/uuid:ea6cb120-82cb-4cdf-89e7-310d3d37bc86">Arcane Designing: Getting Down to Earth with Magic</a>' (MSc graduation, 2026)
 - L. Jiang - '<a href="https://resolver.tudelft.nl/uuid:4b5ef5bd-56df-4bfe-9982-f59971900780">Exploring Colour Compositions Like Van Gogh:
 Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc graduation, 2025)
 - C. Liu - '<a href="https://resolver.tudelft.nl/uuid:70355b17-8b49-4725-a98a-e0ef46c0bfee">The Power of Imagination: A Concept Design for Museum Catharijne Convent</a>' (MSc graduation, 2025)
 - C. Broerse - '<a href="https://resolver.tudelft.nl/uuid:f8762542-a3e0-49f6-85c3-6ec743eaed1d">Preserving the Afghan rubab through interactive technologies</a>' (MSc graduation, 2025)
-- N. Lee - 'Designing Tangible Learning Experiences of Art Creation for Young Adults' (MSc graduation, ongoing)
+- N. Lee - '<a href="https://resolver.tudelft.nl/uuid:e2f62890-208a-4bff-8d55-997cd3cb2099">Through Kawaii Eyes: Interventions for Revealing Genre Painting Processes for Novice Museum Visitors</a>' (MSc graduation, 2025)
 - U. Thomas - '<a href="https://resolver.tudelft.nl/uuid:215dc689-b210-437e-be53-cdd93f94dc74">Under Construction: Repair and Rework Kit. Exploring Needlework, DIY and Sustainable Fashion</a>' (MSc graduation, 2025)
 - P. ten Hagen - '<a href="https://resolver.tudelft.nl/uuid:ac7bded8-a948-4496-a0b5-de9f9ef9f06f">From Curiosity to Research: Enhancing Citizen Science in Museums through Virtual Assistance</a>' (MSc graduation, 2024)
 - M. Cai - '<a href="http://resolver.tudelft.nl/uuid:76935dd6-c224-42d1-a188-da5ccad8c459">Enhancing Active Reading: A Human-Machine Co-Creation Journey for Visualized Narratives Reading</a>' (MSc graduation, 2024)
@@ -68,9 +68,9 @@ Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc gr
 -	The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
 
 # Publications
-- 'Artificial Curators: Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', with H. Gu and J. Vandommele. (under review; forthcoming 2025) [8000 words]
-- ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2025) [8000 words]
-- 'Legendary Sagas and Legendary Rimes'. In *Philology, Poetics and Early Modern Icelandic: New Norse Studies*. Ed. Shaun Hughes. Islandica. Ithaca: Cornell UP. (forthcoming spring 2025) [19000 words]
+- 'Artificial Curators: Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', with H. Gu and J. Vandommele. (under review; forthcoming 2026) [8000 words]
+- ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2026) [8000 words]
+- 'Legendary Sagas and Legendary Rimes'. In *Philology, Poetics and Early Modern Icelandic: New Norse Studies*. Ed. Shaun Hughes. Islandica. Ithaca: Cornell UP. (forthcoming spring 2026) [19000 words]
 - 'On the Role of Materials Experience for Novel Interactions with Digital Representations of Historical Pop-up and Movable Books', with Willemijn Elkhuizen, Stefano Parisi and Elvin Karana. In *CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems, May 2024*. [https://doi.org/10.1145/3613904.3642142](https://doi.org/10.1145/3613904.3642142) 
 - 'Archaeological Trails and Contemporary Art: Soundscapes for visually impaired visitors', with Angeliki Antoniou, Ioanna Lykourentzou, Heng Gu and Maria Stathi. In *Proceedings of the First International Workshop on Accessibility and Multimodal Interaction Design Approaches in Museums for People with Impairments co-located with MobileHCI 2023 Conference Athens, Greece, September 26, 2023*. Ed. Christos Fidas et al. 2024. [https://ceur-ws.org/Vol-3622/paper2.pdf](https://ceur-ws.org/Vol-3622/paper2.pdf)
 - *A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
