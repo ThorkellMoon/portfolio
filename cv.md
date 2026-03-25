@@ -28,7 +28,7 @@ order: 4
 - Data as a design material
 - Responsible design for software-based products
 - R for social sciences (cf. <a href="https://datacarpentry.org/lessons/#social-science-curriculum">Data Carpentry</a>)
-- Data methods and management
+- Data methods and management (PhD-level)
 - Old Norse language and literature
 - Old English language and literature
 - Medieval Nordic law
@@ -37,6 +37,14 @@ order: 4
 - German (elementary and intermediate)
 
 ## Supervision
+- I. van Mil - 'The effects of gendered products on people of the TGNC community' (MSc graduation, ongoing)
+- M. Jiayin Fan - 'Towards a Toolkit for Immersive Audio Design in Museum Exhibitions: Evaluation and Design Application' (MSc graduation, ongoing)
+- I. Gameiro Mesquita - 'Beyond Intervention: Rethinking Transformative Practices in Museums' (MSc graduation, ongoing)
+- X. Liu - 'The Map of the Dead' (MSc graduation, ongoing)
+- Y. Satori - 'Designing Novel Non-Visual Means of Digital/Physical Book Discovery' (MSc graduation, ongoing)
+- E. Schenk - 'Reimagining the Flora Batava' (MSc graduation, ongoing)
+- J. Shen - 'Interactive Role-Play for Historical Empathy at Historical Sites' (MSc graduation, ongoing)
+- T. Poppema - 'Designing scent-based, tangible interations for heritage interpretation in a botanical garden' (MSc graduation, ongoing)
 - M. Riemann - '<a href="https://resolver.tudelft.nl/uuid:ea6cb120-82cb-4cdf-89e7-310d3d37bc86">Arcane Designing: Getting Down to Earth with Magic</a>' (MSc graduation, 2026)
 - L. Jiang - '<a href="https://resolver.tudelft.nl/uuid:4b5ef5bd-56df-4bfe-9982-f59971900780">Exploring Colour Compositions Like Van Gogh:
 Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc graduation, 2025)
