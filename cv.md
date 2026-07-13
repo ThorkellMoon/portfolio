@@ -41,9 +41,9 @@ order: 4
 - M. Jiayin Fan - 'Towards a Toolkit for Immersive Audio Design in Museum Exhibitions: Evaluation and Design Application' (MSc graduation, ongoing)
 - I. Gameiro Mesquita - 'Beyond Intervention: Rethinking Transformative Practices in Museums' (MSc graduation, ongoing)
 - X. Liu - 'The Map of the Dead' (MSc graduation, ongoing)
-- Y. Satori - 'Designing Novel Non-Visual Means of Digital/Physical Book Discovery' (MSc graduation, ongoing)
-- E. Schenk - 'Reimagining the Flora Batava' (MSc graduation, ongoing)
-- J. Shen - 'Interactive Role-Play for Historical Empathy at Historical Sites' (MSc graduation, ongoing)
+- Y. Satori - '<a href="https://resolver.tudelft.nl/uuid:34c51e72-fb3a-4f07-96bf-ee43b6583d52">A Spatial-Acoustic Interface for Non-Visual Book Discovery:Experiential Equity in Digital Libraries</a>' (MSc graduation, 2026)
+- E. Schenk - '<a href="https://resolver.tudelft.nl/uuid:1b8953ee-348d-49f0-b8b8-311e0bf1fec1">Tracing Roots, Planting Stories. Bringing botanical heritage to life to educate about the ethnobotanical relationships of women in the 19th century and stimulate self-reflection.</a>' (MSc graduation, 2026)
+- J. Shen - '<a href="https://resolver.tudelft.nl/uuid:fd0fc0f3-a3ce-4513-a9c7-4b2e4fb47f15">Interactive Role-Play for Historical Empathy at Historical Sites</a>' (MSc graduation, 2026)
 - T. Poppema - 'Designing scent-based, tangible interations for heritage interpretation in a botanical garden' (MSc graduation, ongoing)
 - M. Riemann - '<a href="https://resolver.tudelft.nl/uuid:ea6cb120-82cb-4cdf-89e7-310d3d37bc86">Arcane Designing: Getting Down to Earth with Magic</a>' (MSc graduation, 2026)
 - L. Jiang - '<a href="https://resolver.tudelft.nl/uuid:4b5ef5bd-56df-4bfe-9982-f59971900780">Exploring Colour Compositions Like Van Gogh:
@@ -72,13 +72,14 @@ Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc gr
 ## Research outputs
 
 # Digital resources
--	‘A Lexicon of Medieval Nordic Law’, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. [https://www.dhi.ac.uk/nordic/](https://www.dhi.ac.uk/nordic/) (website and SQL database) [beta]
--	The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
+- ‘A Lexicon of Medieval Nordic Law’, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. [https://www.dhi.ac.uk/nordic/](https://www.dhi.ac.uk/nordic/) (website and SQL database) [beta]
+- The Stories for All Time. [https://fasnl.ku.dk](fasnl.ku.dk) (website and eXist database)
 
 # Publications
-- 'Artificial Curators: Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', with H. Gu and J. Vandommele. (under review; forthcoming 2026) [8000 words]
 - ‘Benedict of Nursia’, with Stephanie Clark, Shannon Godlove and Amity Reading. In *Sources of Anglo-Saxon Literary Culture*. Ed. Frederick Biggs et al.  (under review with Amsterdam UP; forthcoming 2026) [8000 words]
 - 'Legendary Sagas and Legendary Rimes'. In *Philology, Poetics and Early Modern Icelandic: New Norse Studies*. Ed. Shaun Hughes. Islandica. Ithaca: Cornell UP. (forthcoming spring 2026) [19000 words]
+- 'Artificial Curators - Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', with H.Gu and J.Vandommele. 2026. *Digital Culture & Education* 16.3: 6-40. [https://www.digitalcultureandeducation.com/volume-163](https://www.digitalcultureandeducation.com/volume-163)
+- 'Does the digitalization of the book industry reduce its environmental impact?' with M. Sahli et al. 2026. *Cleaner and Responsible Consumption* 22. [https://doi.org/10.1016/j.clrc.2026.100440](https://doi.org/10.1016/j.clrc.2026.100440)
 - 'On the Role of Materials Experience for Novel Interactions with Digital Representations of Historical Pop-up and Movable Books', with Willemijn Elkhuizen, Stefano Parisi and Elvin Karana. In *CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems, May 2024*. [https://doi.org/10.1145/3613904.3642142](https://doi.org/10.1145/3613904.3642142) 
 - 'Archaeological Trails and Contemporary Art: Soundscapes for visually impaired visitors', with Angeliki Antoniou, Ioanna Lykourentzou, Heng Gu and Maria Stathi. In *Proceedings of the First International Workshop on Accessibility and Multimodal Interaction Design Approaches in Museums for People with Impairments co-located with MobileHCI 2023 Conference Athens, Greece, September 26, 2023*. Ed. Christos Fidas et al. 2024. [https://ceur-ws.org/Vol-3622/paper2.pdf](https://ceur-ws.org/Vol-3622/paper2.pdf)
 - *A Lexicon of Medieval Nordic Law*, with Ulrika Djärv, Inger Larsson, Christine Peel and Erik Simensen. 2020. Cambridge: Open Book Publishers. [https://doi.org/10.11647/OBP.0188](https://doi.org/10.11647/OBP.0188)
@@ -97,11 +98,13 @@ Designing An Interactive Learning Experience At The Van Gogh Museum</a>' (MSc gr
 3.  *Kristinréttr Árna Þorlákssonar* (1275), trans. Medieval Nordic Laws (MNL) Project.
 
 # Conference presentations (selected)
+- 'Designing for Curiosity & Wonder in Cultural Heritage - Thoughts and Actions', The Digital Conference at KCL (London, June 2026)
 - 'Distant Viewing and Generative Exploration of Multimedia Heraldry in Early Modern Europe', ADHO (Lisbon, July 2025) [<a href="https://doi.org/10.5281/zenodo.16149793">abstract and slides</a>]
 - 'Artificial Curators - Design Considerations for Interactive Chatbot Experiences in Cultural Heritage Settings', DH & AI Conference (U. Reading, June 2024)
 - 'The Visboeck Curatorbot: Discussing Heritage Collections with Machines', IFLA-WLIC (Rotterdam, August 2023) [<a href="https://repository.ifla.org/handle/20.500.14598/3058">poster</a>]
 
 # Other Materials
+- Love, J.S. 2025. '<a href="https://doi.org/10.5281/zenodo.18222825">Designing & Prototyping the Library</a>'. *IP Vakblad* 2025.9 [https://informatieprofessional.maglr.com/kb-onderzoekskroniek19](https://informatieprofessional.maglr.com/kb-onderzoekskroniek19)
 - Love, J.S. 2024. '<a href="https://research.reading.ac.uk/digitalhumanities/generative-text-for-by-with-digital-humanists/">Generative Text for/by/with Digital Humanists</a>' (blog post within the University of Reading Digital Humanities 'DH & AI' series)
 - Love, J. & N. Rikalo. '<a href="https://doi.org/10.5281/zenodo.5775893">Summary of Insights from WebDocs interviews</a>' (user study and design specifications for Digital Humanities scholars underlying the <a href="https://samepagedemo.com/">SamePage tool</a>)
 - Martinez-Lavanchy, P.M., van Schöll, P. & Zormpa, E. '<a href="https://doi.org/10.5281/zenodo.6325918">TU Delft Research Data Management 101 course</a>' (minor contributions to teaching material)
