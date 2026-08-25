@@ -38,9 +38,9 @@ order: 4
 
 ## Supervision
 - I. van Mil - 'The effects of gendered products on people of the TGNC community' (MSc graduation, ongoing)
-- M. Jiayin Fan - 'Towards a Toolkit for Immersive Audio Design in Museum Exhibitions: Evaluation and Design Application' (MSc graduation, ongoing)
-- I. Gameiro Mesquita - 'Beyond Intervention: Rethinking Transformative Practices in Museums' (MSc graduation, ongoing)
-- X. Liu - 'The Map of the Dead' (MSc graduation, ongoing)
+- M. Jiayin Fan - '<a href="https://resolver.tudelft.nl/uuid:9224c863-3d17-4f2d-b286-887cf1ab2f3b">Towards a Toolkit for Immersive Audio Design in Museum Exhibitions</a>' (MSc graduation, 2026)
+- I. Gameiro Mesquita - '<a href="https://resolver.tudelft.nl/uuid:2f2cbebf-be5c-4712-9815-9ae91bca56a1">Common Ground: A Design Intervention for Reflection and Continuation Beyond the Museum</a>' (MSc graduation, 2026)
+- X. Liu - '<a href="https://resolver.tudelft.nl/uuid:ce759231-ee4e-4162-921a-413af531845a">My Field Journal: Enhancing Visitors’ Engagement with Archaeological Heritage Through Personalized Museum Learning Experiences</a>' (MSc graduation, 2026)
 - Y. Satori - '<a href="https://resolver.tudelft.nl/uuid:34c51e72-fb3a-4f07-96bf-ee43b6583d52">A Spatial-Acoustic Interface for Non-Visual Book Discovery:Experiential Equity in Digital Libraries</a>' (MSc graduation, 2026)
 - E. Schenk - '<a href="https://resolver.tudelft.nl/uuid:1b8953ee-348d-49f0-b8b8-311e0bf1fec1">Tracing Roots, Planting Stories. Bringing botanical heritage to life to educate about the ethnobotanical relationships of women in the 19th century and stimulate self-reflection.</a>' (MSc graduation, 2026)
 - J. Shen - '<a href="https://resolver.tudelft.nl/uuid:fd0fc0f3-a3ce-4513-a9c7-4b2e4fb47f15">Interactive Role-Play for Historical Empathy at Historical Sites</a>' (MSc graduation, 2026)
